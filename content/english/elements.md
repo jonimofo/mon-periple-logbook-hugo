@@ -1,5 +1,5 @@
 ---
-title: "Elements"
+title: "Tests for galleries"
 description: "Some of our Team members"
 draft: false
 layout: "elements"
@@ -237,6 +237,11 @@ raw Markdown line up prettily. You can also use inline Markdown.
 ### Gallery
 
 {{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+{{< gallery dir="images/post/asie/vietnam/03-bien-hoa" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+
+
 
 <hr>
 

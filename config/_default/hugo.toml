@@ -15,6 +15,8 @@ disqusShortname = "themefisher-template" # get your shortname form here : https:
 # disable language
 disableLanguages = [] # desable language from here
 
+defaultContentLanguage = "fr"
+
 
 ############################# Modules ############################
 [module]
