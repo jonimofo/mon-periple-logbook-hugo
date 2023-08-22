@@ -3,9 +3,10 @@ body {
   overflow-x: hidden;
 }
 
+// TODO
 ::selection {
   background: lighten($color: $color-primary, $amount: 10);
-  color: $white;
+  color: $black;
 }
 
 @media (min-width: 1400px) {

@@ -1,5 +1,5 @@
 ---
-title: "Hi, I Am John Doe"
+title: "Coucou les amis"
 image: "images/author-full.jpg"
 email: "sojonatmail@gmail.com"
 # description

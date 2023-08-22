@@ -3,7 +3,7 @@ baseURL = "https://demo.gethugothemes.com/logbook/site/"
 title = "LogBook | Hugo Personal Blog Template"
 theme = "logbook-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Europe/Paris"
 # post pagination
 paginate = 5 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -11,7 +11,7 @@ summaryLength = 50 # see https://gohugo.io/content-management/excerpts/
 # google analytics
 googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+disqusShortname = "jonimofo" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -94,3 +94,4 @@ mediaType = "application/json"
 baseName = "searchindex"
 isPlainText = true
 notAlternative = true
+
