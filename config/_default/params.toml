@@ -41,8 +41,9 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 
 # copyright
-theme_copyright = true
-copyright = "Copyright by your company"
+theme_copyright = false
+# theme_copyright = true
+copyright = ""
 
 # Preloader
 [preloader]
@@ -52,7 +53,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [search]
 enable = true
 primary_color = "#ce8460"
-include_sections = ["post", "shop"] # if `include_sections` is empty, then section's will come from `mainSections`
+include_sections = ["post"] # if `include_sections` is empty, then section's will come from `mainSections`
 show_image = true
 show_description = true
 show_tags = true
@@ -63,9 +64,9 @@ empty_results_placeholder = "Type something to search.." # i18n is `empty_search
 
 # contact info
 [contact_info]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+address = ""
+mobile = ""
+email = ""
 
 # Subscription
 [subscription]
@@ -150,20 +151,20 @@ mastodon = "" # Your verification code
 [cookies]
 enable = false
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Ce site utilise des cookies : en continuant votre navigation vous acceptez leur utilisation. Rassurez-vous moi je ne stocke rien"
+button = "J'accepte"
 
 ######################## sidebar widgets #########################
 [widgets]
 sidebar = [
+  "recent-post",
+  "categories",
+  "tags",
   "search",
   "about-me",
-  "promotion",
-  "subscription",
-  "categories",
-  "recent-post",
-  "tags",
-  "social",
+  # "subscription",
+  # "social",
+  # "promotion",
 ]
 # available widget : search,about-me,categories,tags,recent-post,social,promotion,subscription
 

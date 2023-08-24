@@ -7469,7 +7469,7 @@ textarea.form-control-lg {
 /*  typography */
 body {
   line-height: 1.7;
-  font-family: "Coming Soon", sans-serif;
+  font-family: "Montserrat", serif;
   -webkit-font-smoothing: antialiased;
   color: #696c6d;
   font-size: 0.875rem; }
@@ -7480,7 +7480,7 @@ p,
   color: #696c6d;
   font-size: 0.875rem;
   line-height: 1.7;
-  font-family: "Coming Soon", sans-serif; }
+  font-family: "Montserrat", serif; }
 
 p,
 .post-content {
@@ -7573,7 +7573,7 @@ p:first-child:first-letter {
 /* Button style */
 .btn {
   font-size: 0.875rem;
-  font-family: "Coming Soon", sans-serif;
+  font-family: "Montserrat", serif;
   text-transform: capitalize;
   padding: 8px 25px;
   border-radius: 3.125rem;
