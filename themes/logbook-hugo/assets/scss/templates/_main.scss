@@ -81,9 +81,13 @@
   }
 }
 
+// TODO same que pour reporter (joli hover)
 .post-title {
-  color: $color-primary;
-  font-weight: 500;
+  color: #32a852;
+  // color: $color-primary;
+  font-weight: 800;
+  // font-weight: 500;
+  text-transform: uppercase;
 
   &:hover {
     color: $color-primary;

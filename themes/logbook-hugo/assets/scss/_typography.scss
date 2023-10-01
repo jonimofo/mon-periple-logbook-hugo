@@ -41,6 +41,11 @@ h6 {
   line-height: 1.2;
 }
 
+h2 {
+  text-transform: uppercase;
+  color: $color-primary;
+}
+
 // List in descending order to prevent extra sort function
 $type-levels: 6, 5, 4, 3, 2, 1;
 
@@ -64,7 +69,7 @@ $type-levels: 6, 5, 4, 3, 2, 1;
 // https://www.hongkiat.com/blog/css-better-paragraph
 p:first-child:first-letter {
   font-size: 50px;
-  font-family: "Merriweather", serif;
+  font-family: "Lato", serif;
   initial-letter: 3.9 3;
   // initial-letter: 3.5 3;
   font-weight: bold;

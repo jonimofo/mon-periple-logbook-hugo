@@ -8,7 +8,7 @@ timeZone = "Europe/Paris"
 paginate = 5 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 50 # see https://gohugo.io/content-management/excerpts/
-# google analytics
+# TODO google analytics
 googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
 disqusShortname = "jonimofo" # get your shortname form here : https://disqus.com

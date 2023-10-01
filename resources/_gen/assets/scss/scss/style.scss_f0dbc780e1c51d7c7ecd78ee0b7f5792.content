@@ -7507,6 +7507,10 @@ h6,
   font-weight: 600;
   line-height: 1.2; }
 
+h2, .h2 {
+  text-transform: uppercase;
+  color: #F26419; }
+
 h6,
 .h6 {
   font-size: calc(19.2px * 0.8);
@@ -7563,7 +7567,7 @@ h1,
 
 p:first-child:first-letter {
   font-size: 50px;
-  font-family: "Merriweather", serif;
+  font-family: "Lato", serif;
   initial-letter: 3.9 3;
   font-weight: bold;
   line-height: 1;
@@ -8234,8 +8238,9 @@ header {
         .featured-post-content .post-meta a {
           color: #000; } }
 .post-title {
-  color: #F26419;
-  font-weight: 500; }
+  color: #32a852;
+  font-weight: 800;
+  text-transform: uppercase; }
   .post-title:hover {
     color: #F26419; }
 

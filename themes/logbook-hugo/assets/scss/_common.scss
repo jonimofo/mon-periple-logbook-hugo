@@ -3,7 +3,7 @@ body {
   overflow-x: hidden;
 }
 
-// TODO
+// TODO set selection colors
 ::selection {
   background: lighten($color: $color-primary, $amount: 10);
   color: $black;

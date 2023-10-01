@@ -42,6 +42,7 @@ font_primary_type = "serif" # [serif/sans-serif]
 # font_primary_type = "sans-serif" # [serif/sans-serif]
 # font_primary = "Coming Soon:wght@400"
 # font_primary = "Open Sans:wght@400"
+# font_secondary = "Noto Sans:wght@400"
 font_secondary = "Coming Soon:wght@400"
 # font_secondary = "Montserrat:wght@400"
 font_secondary_type = "sans-serif" # [serif/sans-serif]
